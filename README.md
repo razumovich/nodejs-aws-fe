@@ -45,7 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## CloudFront URL
-https://djwc8wf09giys.cloudfront.net/
+https://d1fi39iljyhqfa.cloudfront.net/
 
 ## S3 URL:
-http://gsstore-client-bucket.s3-website-us-east-1.amazonaws.com/
+http://gsstore-client-bucket.s3-website-eu-west-1.amazonaws.com/
